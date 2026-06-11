@@ -1,0 +1,22 @@
+﻿<Window x:Class="ScreenStreamerClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+
+            <Button Content="Start Streaming"
+                    Click="StartButton_Click"
+                    Margin="5"/>
+
+            <Button Content="Stop Streaming"
+                    Click="StopButton_Click"
+                    Margin="5"/>
+            <TextBox x:Name="windowName" Width="200"/>
+            <Button Content="Start"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\screenstreamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\screenstreamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\analyzers\\llavavisionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\analyzers\\llavavisionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\analyzers\\geminivisionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\analyzers\\geminivisionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\services\\resultsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\services\\resultsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\services\\drivingeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\services\\drivingeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\helpers\\framebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\helpers\\framebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\mappers\\drivingeventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\mappers\\drivingeventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.api\\controllers\\streamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|solutionrelative:driverstestevaluation.api\\controllers\\streamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\iservices\\idrivingeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\iservices\\idrivingeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\models\\visionresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\models\\visionresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\dtos\\resultsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\dtos\\resultsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\screencapturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\screencapturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.api\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|solutionrelative:driverstestevaluation.api\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\iservices\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\iservices\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\models\\drivingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\models\\drivingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\screenstreamerclient\\screenstreamerclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1981DAC3-2002-4731-B800-FE99130C9BBC}|ScreenStreamerClient\\ScreenStreamerClient.csproj|solutionrelative:screenstreamerclient\\screenstreamerclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.business\\driverstestevaluation.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F5F0545-3607-402F-8835-844441A45204}|DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj|solutionrelative:driverstestevaluation.business\\driverstestevaluation.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\driverstestevaluation.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\driverstestevaluation.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|solutionrelative:driverstestevaluation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.api\\driverstestevaluation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|solutionrelative:driverstestevaluation.api\\driverstestevaluation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\iservices\\iframebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\iservices\\iframebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\iservices\\iframeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\iservices\\iframeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\iservices\\ivisionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\iservices\\ivisionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\iservices\\iresultsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\iservices\\iresultsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\dtos\\drivingeventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\dtos\\drivingeventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\models\\drivingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\models\\drivingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A225FC17-6026-41AE-983F-30F4ACBA3468}|DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.data\\driverstestevaluation.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A225FC17-6026-41AE-983F-30F4ACBA3468}|DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj|solutionrelative:driverstestevaluation.data\\driverstestevaluation.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\dtos\\drivingeventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\dtos\\drivingeventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\dtos\\gamewindowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\dtos\\gamewindowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.core\\driverstestevaluation.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E7365B9-BD9A-44F2-B04F-0DCE3A3CBC7F}|DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj|solutionrelative:driverstestevaluation.core\\driverstestevaluation.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A225FC17-6026-41AE-983F-30F4ACBA3468}|DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.data\\driverstestevaluation.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A225FC17-6026-41AE-983F-30F4ACBA3468}|DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj|solutionrelative:driverstestevaluation.data\\driverstestevaluation.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|c:\\users\\wannes metsers\\desktop\\stage\\graduaatsproef\\code\\backend\\driverstestevaluation.api\\driverstestevaluation.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{78A430BD-7C85-4E26-A46E-01C2910A0E5E}|DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj|solutionrelative:driverstestevaluation.api\\driverstestevaluation.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenStreamer.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamer.cs",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\ScreenStreamer.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamer.cs",
+              "RelativeToolTip": "ScreenStreamerClient\\ScreenStreamer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:40:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LlavaVisionAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Analyzers\\LlavaVisionAnalyzer.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Analyzers\\LlavaVisionAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Analyzers\\LlavaVisionAnalyzer.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Analyzers\\LlavaVisionAnalyzer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwJ8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:56:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeminiVisionAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Analyzers\\GeminiVisionAnalyzer.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Analyzers\\GeminiVisionAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Analyzers\\GeminiVisionAnalyzer.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Analyzers\\GeminiVisionAnalyzer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:11:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Services\\SessionService.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Services\\SessionService.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Services\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:14:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrameBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Helpers\\FrameBuffer.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Helpers\\FrameBuffer.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Helpers\\FrameBuffer.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Helpers\\FrameBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:02:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrivingEventMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Mappers\\DrivingEventMapper.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Mappers\\DrivingEventMapper.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Mappers\\DrivingEventMapper.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Mappers\\DrivingEventMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:20:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrivingEventService.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Services\\DrivingEventService.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Services\\DrivingEventService.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Services\\DrivingEventService.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Services\\DrivingEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:15:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsService.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Services\\ResultsService.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\Services\\ResultsService.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\Services\\ResultsService.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\Services\\ResultsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:38:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StreamController.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\Controllers\\StreamController.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.API\\Controllers\\StreamController.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\Controllers\\StreamController.cs",
+              "RelativeToolTip": "DriversTestEvaluation.API\\Controllers\\StreamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:48:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDrivingEventService.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IDrivingEventService.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\IServices\\IDrivingEventService.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IDrivingEventService.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\IServices\\IDrivingEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:46:48.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Results.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\Results.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\Models\\Results.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\Results.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\Models\\Results.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:43:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisionResults.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\VisionResults.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\Models\\VisionResults.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\VisionResults.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\Models\\VisionResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:57:06.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultsResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\ResultsResponseDto.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\DTOs\\ResultsResponseDto.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\ResultsResponseDto.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\DTOs\\ResultsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:49:17.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.API\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "DriversTestEvaluation.API\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:40:55.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScreenCaptureHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenCaptureHelper.cs",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\ScreenCaptureHelper.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenCaptureHelper.cs",
+              "RelativeToolTip": "ScreenStreamerClient\\ScreenCaptureHelper.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:41:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\ISessionService.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\IServices\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\ISessionService.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\IServices\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:09:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DrivingEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\DrivingEvent.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\Models\\DrivingEvent.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\DrivingEvent.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\Models\\DrivingEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:40:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DriversTestEvaluation.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T10:41:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\App.xaml.cs",
+              "RelativeToolTip": "ScreenStreamerClient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:48:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ScreenStreamerClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:39:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\MainWindow.xaml",
+              "RelativeToolTip": "ScreenStreamerClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T22:39:57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\Program.cs",
+              "RelativeToolTip": "ScreenStreamerClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:40:12.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScreenStreamerClient.csproj",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj",
+              "RelativeDocumentMoniker": "ScreenStreamerClient\\ScreenStreamerClient.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj",
+              "RelativeToolTip": "ScreenStreamerClient\\ScreenStreamerClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T22:40:42.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DriversTestEvaluation.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.Business\\DriversTestEvaluation.Business.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T21:45:20.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DriversTestEvaluation.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T10:37:39.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\Program.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\Program.cs",
+              "RelativeToolTip": "DriversTestEvaluation.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:09:53.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwJAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-01T22:12:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFrameBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IFrameBuffer.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\IServices\\IFrameBuffer.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IFrameBuffer.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\IServices\\IFrameBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:05:57.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IVisionAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IVisionAnalyzer.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\IServices\\IVisionAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IVisionAnalyzer.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\IServices\\IVisionAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:25:39.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFrameProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IFrameProcessor.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\IServices\\IFrameProcessor.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IFrameProcessor.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\IServices\\IFrameProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:56:57.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DrivingEventResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\DrivingEventResponseDto.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\DTOs\\DrivingEventResponseDto.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\DrivingEventResponseDto.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\DTOs\\DrivingEventResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:07:56.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IResultsService.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IResultsService.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\IServices\\IResultsService.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\IServices\\IResultsService.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\IServices\\IResultsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:49:35.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DrivingSession.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\DrivingSession.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\Models\\DrivingSession.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\Models\\DrivingSession.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\Models\\DrivingSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:54:16.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DriversTestEvaluation.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T10:41:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GameWindowRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\GameWindowRequestDto.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\DTOs\\GameWindowRequestDto.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\GameWindowRequestDto.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\DTOs\\GameWindowRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T19:02:00.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DrivingEventRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\DrivingEventRequestDto.cs",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\DTOs\\DrivingEventRequestDto.cs",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DTOs\\DrivingEventRequestDto.cs",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\DTOs\\DrivingEventRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T10:48:34.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEcHAAAAAAAAAAAIwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-01T18:44:23.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DriversTestEvaluation.Core",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T10:41:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DriversTestEvaluation.Data",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.Data\\DriversTestEvaluation.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T10:41:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DriversTestEvaluation.API",
+              "DocumentMoniker": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "RelativeDocumentMoniker": "DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "ToolTip": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "RelativeToolTip": "DriversTestEvaluation.API\\DriversTestEvaluation.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T10:37:44.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

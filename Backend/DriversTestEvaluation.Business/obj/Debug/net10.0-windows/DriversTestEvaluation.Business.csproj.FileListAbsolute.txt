@@ -1,0 +1,17 @@
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.csproj.AssemblyReference.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.AssemblyInfoInputs.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.AssemblyInfo.cs
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.csproj.CoreCompileInputs.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Business.deps.json
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Business.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Business.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Core.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Core.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversT.6713ED77.Up2Date
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\refint\DriversTestEvaluation.Business.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\DriversTestEvaluation.Business.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\obj\Debug\net10.0-windows\ref\DriversTestEvaluation.Business.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Data.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Business\bin\Debug\net10.0-windows\DriversTestEvaluation.Data.pdb

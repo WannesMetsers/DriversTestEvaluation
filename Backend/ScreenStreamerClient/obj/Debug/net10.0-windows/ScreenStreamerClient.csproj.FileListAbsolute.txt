@@ -1,0 +1,5 @@
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\ScreenStreamerClient\obj\Debug\net10.0-windows\ScreenStreamerClient.csproj.AssemblyReference.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\ScreenStreamerClient\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\ScreenStreamerClient\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\ScreenStreamerClient\obj\Debug\net10.0-windows\ScreenStreamerClient_MarkupCompile.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\ScreenStreamerClient\obj\Debug\net10.0-windows\ScreenStreamerClient_MarkupCompile.lref

@@ -1,0 +1,17 @@
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.csproj.AssemblyReference.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.AssemblyInfoInputs.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.AssemblyInfo.cs
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\bin\Debug\net10.0\DriversTestEvaluation.Data.deps.json
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\bin\Debug\net10.0\DriversTestEvaluation.Data.runtimeconfig.json
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\bin\Debug\net10.0\DriversTestEvaluation.Data.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\bin\Debug\net10.0\DriversTestEvaluation.Data.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\bin\Debug\net10.0\DriversTestEvaluation.Core.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\bin\Debug\net10.0\DriversTestEvaluation.Core.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversT.0197902F.Up2Date
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\refint\DriversTestEvaluation.Data.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\DriversTestEvaluation.Data.genruntimeconfig.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Data\obj\Debug\net10.0\ref\DriversTestEvaluation.Data.dll
