@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj": {}
+    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj": {
+    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj",
+        "projectUniqueName": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj",
         "projectName": "ScreenStreamerClient",
-        "projectPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj",
+        "projectPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\ScreenStreamerClient\\ScreenStreamerClient.csproj",
         "packagesPath": "C:\\Users\\Wannes Metsers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\ScreenStreamerClient\\obj\\",
+        "outputPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\ScreenStreamerClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xAUE8Oy7Gok=",
+  "dgSpecHash": "6s8q7KnbbiY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+  "projectFilePath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wannes Metsers\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Wannes Metsers\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

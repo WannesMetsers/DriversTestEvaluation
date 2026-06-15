@@ -10,3 +10,16 @@ C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEva
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\refint\DriversTestEvaluation.Core.dll
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.pdb
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\Code\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\ref\DriversTestEvaluation.Core.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\bin\Debug\net10.0\DriversTestEvaluation.Core.deps.json
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\bin\Debug\net10.0\DriversTestEvaluation.Core.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\bin\Debug\net10.0\DriversTestEvaluation.Core.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.csproj.AssemblyReference.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.AssemblyInfoInputs.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.AssemblyInfo.cs
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.sourcelink.json
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\refint\DriversTestEvaluation.Core.dll
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\DriversTestEvaluation.Core.pdb
+C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.Core\obj\Debug\net10.0\ref\DriversTestEvaluation.Core.dll

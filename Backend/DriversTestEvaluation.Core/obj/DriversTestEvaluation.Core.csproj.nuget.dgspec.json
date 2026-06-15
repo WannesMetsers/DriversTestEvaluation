@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj": {}
+    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj": {
+    "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
         "projectName": "DriversTestEvaluation.Core",
-        "projectPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
+        "projectPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\DriversTestEvaluation.Core\\DriversTestEvaluation.Core.csproj",
         "packagesPath": "C:\\Users\\Wannes Metsers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\Code\\Backend\\DriversTestEvaluation.Core\\obj\\",
+        "outputPath": "C:\\Users\\Wannes Metsers\\Desktop\\Stage\\GraduaatsProef\\DriversTestEvaluation\\Backend\\DriversTestEvaluation.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriversTestEvaluation.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a61186ddc4c26411efd84bd90ca16eae72c674")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriversTestEvaluation.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriversTestEvaluation.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
