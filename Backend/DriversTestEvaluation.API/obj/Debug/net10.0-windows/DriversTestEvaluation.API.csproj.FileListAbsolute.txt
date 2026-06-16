@@ -320,7 +320,6 @@ C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backe
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\staticwebassets.development.json
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\staticwebassets.build.endpoints.json
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\swae.build.ex.cache
-C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\staticwebassets.upToDateCheck.txt
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\DriversT.68AE4D2C.Up2Date
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\DriversTestEvaluation.API.dll
 C:\Users\Wannes Metsers\Desktop\Stage\GraduaatsProef\DriversTestEvaluation\Backend\DriversTestEvaluation.API\obj\Debug\net10.0-windows\refint\DriversTestEvaluation.API.dll

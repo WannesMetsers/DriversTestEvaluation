@@ -24,6 +24,7 @@ namespace DriversTestEvaluation.API
             builder.Services.AddScoped<IResultsService, ResultsService>();
             builder.Services.AddScoped<IDrivingEventService, DrivingEventService>();
             builder.Services.AddScoped<LlavaVisionAnalyzer, LlavaVisionAnalyzer>();
+            builder.Services.AddScoped<SimulatorAnalyzer, SimulatorAnalyzer>();
             builder.Services.AddDbContext<DriversTestEvaluationDbContext>(options =>
                 options.UseSqlServer(
                 builder.Configuration.GetConnectionString("DefaultConnection")

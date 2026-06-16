@@ -24,13 +24,15 @@ namespace DriversTestEvaluation.Business.Services
 
         private readonly IFrameBuffer _frameBuffer;
 
+        //De jsons entry komen momenteel van deze vision klasse. 
         private readonly LlavaVisionAnalyzer vision;
         private readonly IServiceScopeFactory _scopeFactory;
+        private readonly SimulatorAnalyzer _analyzer;
+       
 
 
 
-
-        public SessionService(DriversTestEvaluationDbContext context, IResultsService resultsService, IDrivingEventService eventService, IFrameBuffer frameBuffer, LlavaVisionAnalyzer gemini, IServiceScopeFactory serviceScopeFactory)
+        public SessionService(DriversTestEvaluationDbContext context, IResultsService resultsService, IDrivingEventService eventService, IFrameBuffer frameBuffer, LlavaVisionAnalyzer gemini, IServiceScopeFactory serviceScopeFactory, SimulatorAnalyzer analyzer)
         {
             _context = context;
             _resultsService = resultsService;
@@ -38,6 +40,7 @@ namespace DriversTestEvaluation.Business.Services
             _frameBuffer = frameBuffer;
             vision = gemini;
             _scopeFactory = serviceScopeFactory;
+            _analyzer = analyzer;
         }
 
         public async Task<ActionResult<Guid>> StartTest()
@@ -163,6 +166,9 @@ namespace DriversTestEvaluation.Business.Services
         //    }
         //}
 
+        //=========================================================================================================
+        // Hier worden de jsons behandeld die door de ai aangemaakt worden. comment dit als je een simulator hebt
+        //=========================================================================================================
         private async Task AnalyzeJsonLoop(DrivingSession session)
         {
             JsonEntry lastJsonEntry = null;
@@ -196,6 +202,42 @@ namespace DriversTestEvaluation.Business.Services
                 await Task.Delay(2000);
             }
         }
+
+        //=========================================================================================================
+        // Hier worden de jsons behandeld die door de simulator aangemaakt worden. comment dit als je geen simulator hebt
+        //=========================================================================================================
+
+        //private async Task AnalyzeJsonLoop(DrivingSession session)
+        //{
+        //    while (true)
+        //    {
+        //        using var scope = _scopeFactory.CreateScope();
+        //        var db = scope.ServiceProvider.GetRequiredService<DriversTestEvaluationDbContext>();
+
+        //        var latestSession = await db.DrivingSession
+        //            .AsNoTracking()
+        //            .FirstOrDefaultAsync(x => x.Id == session.Id);
+
+        //        if (latestSession == null || !latestSession.SessionActive)
+        //            break;
+
+        //        var service = scope.ServiceProvider.GetRequiredService<IDrivingEventService>();
+
+        //        try
+        //        {
+        //            var result = await _analyzer.AnalyzeJsonEntry();
+
+        //            await service.CreateJsonEvent(result, session.Id);
+        //            await CreateCoordinates(result, session.Id);
+        //        }
+        //        catch (Exception ex)
+        //        {
+        //            Console.WriteLine($"ERROR: {ex}");
+        //        }
+
+        //        await Task.Delay(2000);
+        //    }
+        //}
 
         private async Task CreateCoordinates(JsonEntry entry, Guid sessionId)
         {

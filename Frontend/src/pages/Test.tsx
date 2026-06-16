@@ -138,7 +138,7 @@ export default function Test() {
 
   {/* RIGHT: map */}
   <div style={{ flex: 1,  border: "1px solid var(--border)" }}>
-    <h1>map</h1>
+    <h1>Map</h1>
     <RouteMap coordinates={coordinates} />
   </div>
 </div>
